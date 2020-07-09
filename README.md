@@ -5,6 +5,7 @@
   <a href="https://twitter.com/oskar_at_net">Twitter</a> •
   <a href="http://oskar-dudycz.pl/">Blog</a> •
   <a href="https://www.youtube.com/channel/UC3M4_OgJS4lvZHVDzkOlxIg">Youtube</a> •
+  <br />
 </p>
 
 👋 I'm Event Sourcing and .NET OSS practician 👷
@@ -26,7 +27,7 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/oskardudycz
 
 You can support my work with [Github sponsors](https://github.com/sponsors/oskardudycz)
 
-Trivia:
+## Trivia:
 - 🔭 I’m currently working on: [WebApi in .NET Core tutorials and samples](https://github.com/oskardudycz/WebApiWith.NETCore), [Marten v4](https://github.com/JasperFx/marten/milestone/28)
 - 🌱 I’m currently learning: Azur and GraphQL
 - 👯 I’m looking to collaborate on: Event Sourcing projects
