@@ -29,7 +29,7 @@ You can support my work at [Github sponsors](https://github.com/sponsors/oskardu
 
 ## Trivia:
 - 🔭 I’m currently working on: [WebApi in .NET Core tutorials and samples](https://github.com/oskardudycz/WebApiWith.NETCore), [Marten v4](https://github.com/JasperFx/marten/milestone/28)
-- 🌱 I’m currently learning: Azure and GraphQL
+- 🌱 I’m currently learning: Postgres WAL, Azure and GraphQL
 - 👯 I’m looking to collaborate on: Event Sourcing projects
 - 🤔 I’m looking for help with making my OSS work sustainable - see [Github sponsors](https://github.com/sponsors/oskardudycz)
 - 💬 Ask me about Event Sourcing, software architecture and pragmatic development
