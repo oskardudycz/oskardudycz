@@ -1,4 +1,12 @@
-# Hi there, I'm Oskar Dudycz 👋
+<h1 align="center">Hi there, I'm Oskar Dudycz 👋</h1>
+
+<p align="center">
+  <a href="https://twitter.com/oskar_at_net">Twitter</a> •
+  <a href="http://oskar-dudycz.pl/">Blog</a> •
+  <a href="https://www.youtube.com/channel/UC3M4_OgJS4lvZHVDzkOlxIg">Youtube</a> •
+  <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a>
+</p>
+---
 
 👋 I'm Event Sourcing and .NET OSS practician 👷
 
@@ -11,16 +19,7 @@ My main projects:
 - ⚡ [Event Sourcing in .NET tutorials](https://github.com/oskardudycz/EventSourcing.NetCore)
 - 👁️ [GoldenEye](https://github.com/oskardudycz/GoldenEye)
 
-Your money also helps me contribute to the community in other, non-code ways:
-- [Twitter](https://twitter.com/oskar_at_net)
-- [Blog](http://oskar-dudycz.pl/),
-- [Ebooks](https://www.szkola-event-sourcing.pl/),
-- [Conference and meetups talks](https://www.szkola-event-sourcing.pl/en/tour/),
-- [Youtube channel](https://www.youtube.com/channel/UC3M4_OgJS4lvZHVDzkOlxIg),
-- [Newsletter](https://www.szkola-event-sourcing.pl/).
-
 You can also check my [LinkedIn profile](https://www.linkedin.com/in/oskardudycz/).
-
 
 ## Sponsorship
 
