@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Oskar Dudycz 👋</h1>
 
 <p align="center">
+  <a href="https://github.com/sponsors/oskardudycz">💖 Support me at Github Sponsors</a> •
   <a href="https://twitter.com/oskar_at_net">Twitter</a> •
   <a href="http://oskar-dudycz.pl/">Blog</a> •
   <a href="https://www.youtube.com/channel/UC3M4_OgJS4lvZHVDzkOlxIg">Youtube</a> •
-  <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a>
 </p>
 ---
 
