@@ -6,7 +6,6 @@
   <a href="http://oskar-dudycz.pl/">Blog</a> •
   <a href="https://www.youtube.com/channel/UC3M4_OgJS4lvZHVDzkOlxIg">Youtube</a> •
 </p>
----
 
 👋 I'm Event Sourcing and .NET OSS practician 👷
 
