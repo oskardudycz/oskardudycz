@@ -20,6 +20,7 @@ My main projects:
 - ⚡ [Event Sourcing in .NET tutorials](https://github.com/oskardudycz/EventSourcing.NetCore)
 - 👁️ [GoldenEye](https://github.com/oskardudycz/GoldenEye)
 - 🧰 [WebApi in .NET Core tutorials and samples](https://github.com/oskardudycz/WebApiWith.NETCore)
+- 📝 [Architecture Weekly](https://github.com/oskardudycz/ArchitectureWeekly)
 
 You can also check my [LinkedIn profile](https://www.linkedin.com/in/oskardudycz/).
 
