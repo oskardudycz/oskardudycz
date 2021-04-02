@@ -18,6 +18,7 @@ My main projects:
 - 🐉 [Event Store](https://www.eventstore.com/)
 - 🐿️ [Marten](https://martendb.io/)
 - ⚡ [Event Sourcing in .NET tutorials](https://github.com/oskardudycz/EventSourcing.NetCore)
+- ⚡ [Event Sourcing in Node.js tutorials](https://github.com/oskardudycz/EventSourcing.NodeJS)
 - 👁️ [GoldenEye](https://github.com/oskardudycz/GoldenEye)
 - 🧰 [WebApi in .NET Core tutorials and samples](https://github.com/oskardudycz/WebApiWith.NETCore)
 - 📝 [Architecture Weekly](https://github.com/oskardudycz/ArchitectureWeekly)
@@ -28,7 +29,7 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/oskardudycz
 
 🙏 If you used my tools, learned from my resources and would like to help me make my community work sustainable - a monthly contribution would mean A WHOLE LOT. Github stars and Nuget downloads don't pay the bills. Hopefully, with your support, I'll be continuing my community work and do it not only in overtime 😛
 
-You can support my work at [Github sponsors](https://github.com/sponsors/oskardudycz)
+You can support my work at [Github sponsors](https://github.com/sponsors/oskardudycz).
 
 ## Trivia:
 - 🔭 I’m currently working on [Marten v4](https://github.com/JasperFx/marten/milestone/28)
