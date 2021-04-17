@@ -8,7 +8,7 @@
   <br />
 </p>
 
-👋 I'm Event Sourcing and .NET OSS practician 👷
+👋 I'm Event Sourcing and .NET OSS practitioner 👷
 
 You may know me from my work as [Event Store](https://www.eventstore.com/) DevAdvocate, or co-maintainer of [Marten](https://martendb.io/), or from my [Event Sourcing in .NET tutorials](https://github.com/oskardudycz/EventSourcing.NetCore). We could meet after one of my conference talks or my online [webinars](https://www.youtube.com/watch?v=wNrH5dK1m0I&list=PLw-VZz_H4iio9b_NrH25gPKjr2MAS2YgC) or we're just starting our friendship.
 
