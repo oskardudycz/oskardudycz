@@ -5,6 +5,7 @@
   <a href="https://twitter.com/oskar_at_net">Twitter</a> •
   <a href="http://event-driven.io/?utm_source=github_profile">Blog</a> •
   <a href="https://www.youtube.com/channel/UC3M4_OgJS4lvZHVDzkOlxIg">Youtube</a> •
+  <a href="https://www.youtube.com/channel/UC3M4_OgJS4lvZHVDzkOlxIg">Architecture Weekly</a> •
   <br />
 </p>
 
@@ -19,9 +20,9 @@ My main projects:
 - 🐿️ [Marten](https://martendb.io/)
 - ⚡ [Event Sourcing in .NET tutorials](https://github.com/oskardudycz/EventSourcing.NetCore)
 - ⚡ [Event Sourcing in Node.js tutorials](https://github.com/oskardudycz/EventSourcing.NodeJS)
+- 📝 [Architecture Weekly](https://github.com/oskardudycz/ArchitectureWeekly)
 - 👁️ [GoldenEye](https://github.com/oskardudycz/GoldenEye)
 - 🧰 [WebApi in .NET Core tutorials and samples](https://github.com/oskardudycz/WebApiWith.NETCore)
-- 📝 [Architecture Weekly](https://github.com/oskardudycz/ArchitectureWeekly)
 
 You can also check my [LinkedIn profile](https://www.linkedin.com/in/oskardudycz/).
 
