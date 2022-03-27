@@ -20,6 +20,7 @@ My main projects:
 - 🐿️ [Marten](https://martendb.io/)
 - ⚡ [Event Sourcing in .NET tutorials](https://github.com/oskardudycz/EventSourcing.NetCore)
 - ⚡ [Event Sourcing in Node.js tutorials](https://github.com/oskardudycz/EventSourcing.NodeJS)
+- ⚡ [Event Sourcing in Java tutorials](https://github.com/oskardudycz/EventSourcing.JVM)
 - 📝 [Architecture Weekly](https://github.com/oskardudycz/ArchitectureWeekly)
 - 👁️ [GoldenEye](https://github.com/oskardudycz/GoldenEye)
 - 🧰 [WebApi in .NET Core tutorials and samples](https://github.com/oskardudycz/WebApiWith.NETCore)
@@ -33,11 +34,11 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/oskardudycz
 You can support my work at [Github sponsors](https://github.com/sponsors/oskardudycz).
 
 ## Trivia:
-- 🔭 I’m currently working on [Marten v4](https://github.com/JasperFx/marten/milestone/28)
-- 🌱 I’m currently learning: Postgres WAL, Azure and GraphQL
+- 🔭 I’m currently working on [Marten v5](https://github.com/JasperFx/marten/milestone/28)
+- 🌱 I’m currently learning: Postgres WAL and GraphQL
 - 👯 I’m looking to collaborate on: Event Sourcing projects
 - 🤔 I’m looking for help with making my OSS work sustainable - see [Github sponsors](https://github.com/sponsors/oskardudycz)
 - 💬 Ask me about Event Sourcing, software architecture and pragmatic development
-- 📫 How to reach me: [Twitter](https://twitter.com/oskar_at_net), [Email](mailto:contact@oskar-dudycz.pl)
+- 📫 How to reach me: [Twitter](https://twitter.com/oskar_at_net), [Email](mailto:oskar@event-driven.io)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My favourite movie is "Eternal Sunshine of the Spotless Mind"
