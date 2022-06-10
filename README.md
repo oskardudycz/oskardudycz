@@ -11,12 +11,11 @@
 
 👋 I'm Event Sourcing and .NET OSS practitioner 👷
 
-You may know me from my work as [Event Store](https://www.eventstore.com/) DevAdvocate, or co-maintainer of [Marten](https://martendb.io/), or from my [Event Sourcing in .NET tutorials](https://github.com/oskardudycz/EventSourcing.NetCore). We could meet after one of my conference talks or my online [webinars](https://www.youtube.com/watch?v=wNrH5dK1m0I&list=PLw-VZz_H4iio9b_NrH25gPKjr2MAS2YgC) or we're just starting our friendship.
+You may know me as co-maintainer of [Marten](https://martendb.io/), or from my [Event Sourcing in .NET tutorials](https://github.com/oskardudycz/EventSourcing.NetCore) or you've read my [blog](http://event-driven.io/?utm_source=github_profile). We could meet after one of my conference talks or my online [webinars](https://www.youtube.com/watch?v=wNrH5dK1m0I&list=PLw-VZz_H4iio9b_NrH25gPKjr2MAS2YgC) or we're just starting our friendship.
 
 🔥 My mission is to build tools like [Marten](https://martendb.io/) or [GoldenEye](https://github.com/oskardudycz/GoldenEye) that will help to have fun while efficiently delivering systems to productions. I also want to pass my pragmatic approach and let others learn from my mistakes instead of their own.
 
 My main projects:
-- 🐉 [Event Store](https://www.eventstore.com/)
 - 🐿️ [Marten](https://martendb.io/)
 - ⚡ [Event Sourcing in .NET tutorials](https://github.com/oskardudycz/EventSourcing.NetCore)
 - ⚡ [Event Sourcing in Node.js tutorials](https://github.com/oskardudycz/EventSourcing.NodeJS)
