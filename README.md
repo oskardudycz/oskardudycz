@@ -33,8 +33,8 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/oskardudycz
 You can support my work at [Github sponsors](https://github.com/sponsors/oskardudycz).
 
 ## Trivia:
-- 🔭 I’m currently working on [Marten v5](https://github.com/JasperFx/marten/milestone/28)
-- 🌱 I’m currently learning: Postgres WAL and GraphQL
+- 🔭 I’m currently working on [Marten v6](https://github.com/JasperFx/marten/milestone/28)
+- 🌱 I’m currently learning: Postgres WAL
 - 👯 I’m looking to collaborate on: Event Sourcing projects
 - 🤔 I’m looking for help with making my OSS work sustainable - see [Github sponsors](https://github.com/sponsors/oskardudycz)
 - 💬 Ask me about Event Sourcing, software architecture and pragmatic development
