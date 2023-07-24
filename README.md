@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/sponsors/oskardudycz">💖 Support me at Github Sponsors</a> •
-  <a href="https://twitter.com/oskar_at_net">Twitter</a> •
+  <a href="https://www.linkedin.com/in/oskardudycz/">LinkedIn</a> •
   <a href="http://event-driven.io/?utm_source=github_profile">Blog</a> •
   <a href="https://www.youtube.com/channel/UC3M4_OgJS4lvZHVDzkOlxIg">Youtube</a> •
   <a href="https://www.architecture-weekly.com?utm_source=github_profile">Architecture Weekly</a> •
