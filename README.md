@@ -38,6 +38,6 @@ You can support my work at [Github sponsors](https://github.com/sponsors/oskardu
 - 👯 I’m looking to collaborate on: Event Sourcing projects
 - 🤔 I’m looking for help with making my OSS work sustainable - see [Github sponsors](https://github.com/sponsors/oskardudycz)
 - 💬 Ask me about Event Sourcing, software architecture and pragmatic development
-- 📫 How to reach me: [Twitter](https://twitter.com/oskar_at_net), [Email](mailto:oskar@event-driven.io)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oskardudycz), [Email](mailto:oskar@event-driven.io)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My favourite movie is "Eternal Sunshine of the Spotless Mind"
