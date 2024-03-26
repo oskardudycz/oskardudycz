@@ -11,20 +11,23 @@
 
 👋 I'm Event Sourcing and .NET OSS practitioner 👷
 
-You may know me as co-maintainer of [Marten](https://martendb.io/), or from my [Event Sourcing in .NET tutorials](https://github.com/oskardudycz/EventSourcing.NetCore) or you've read my [blog](http://event-driven.io/?utm_source=github_profile). We could meet after one of my conference talks or my online [webinars](https://www.youtube.com/watch?v=wNrH5dK1m0I&list=PLw-VZz_H4iio9b_NrH25gPKjr2MAS2YgC) or we're just starting our friendship.
+You may know me from my [Event Sourcing tutorials](https://github.com/oskardudycz/EventSourcing.NetCore) or you've read my [blog](http://event-driven.io/?utm_source=github_profile). We could meet after one of my conference talks or my online [webinars](https://www.youtube.com/watch?v=wNrH5dK1m0I&list=PLw-VZz_H4iio9b_NrH25gPKjr2MAS2YgC) or we're just starting our friendship.
 
-🔥 My mission is to build tools like [Marten](https://martendb.io/) or [GoldenEye](https://github.com/oskardudycz/GoldenEye) that will help to have fun while efficiently delivering systems to productions. I also want to pass my pragmatic approach and let others learn from my mistakes instead of their own.
+🔥 My mission is to build tools to help have fun while efficiently delivering systems to productions. I also want to pass my pragmatic approach and let others learn from my mistakes instead of their own.
 
 My main projects:
-- 🐿️ [Marten](https://martendb.io/)
 - ⚡ [Event Sourcing in .NET tutorials](https://github.com/oskardudycz/EventSourcing.NetCore)
 - ⚡ [Event Sourcing in Node.js tutorials](https://github.com/oskardudycz/EventSourcing.NodeJS)
 - ⚡ [Event Sourcing in Java tutorials](https://github.com/oskardudycz/EventSourcing.JVM)
 - 📝 [Architecture Weekly](https://github.com/oskardudycz/ArchitectureWeekly)
-- 👁️ [GoldenEye](https://github.com/oskardudycz/GoldenEye)
-- 🧰 [WebApi in .NET Core tutorials and samples](https://github.com/oskardudycz/WebApiWith.NETCore)
+- 👨‍🔬 [Emmett](https://github.com/event-driven-io/emmett/)
 
 You can also check my [LinkedIn profile](https://www.linkedin.com/in/oskardudycz/).
+
+I was involved in past in:
+- 🐿️ [Marten](https://martendb.io/)
+- 🐉 [EventStoreDB](https://developers.eventstore.com/)
+- 👁️ [GoldenEye](https://github.com/oskardudycz/GoldenEye)
 
 ## Sponsorship
 
@@ -33,7 +36,7 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/oskardudycz
 You can support my work at [Github sponsors](https://github.com/sponsors/oskardudycz).
 
 ## Trivia:
-- 🔭 I’m currently working on [Marten v6](https://github.com/JasperFx/marten/milestone/28)
+- 🔭 I’m currently working on [Emmett](https://github.com/event-driven-io/emmett/)
 - 🌱 I’m currently learning: Postgres WAL
 - 👯 I’m looking to collaborate on: Event Sourcing projects
 - 🤔 I’m looking for help with making my OSS work sustainable - see [Github sponsors](https://github.com/sponsors/oskardudycz)
